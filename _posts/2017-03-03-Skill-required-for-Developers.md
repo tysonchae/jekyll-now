@@ -6,6 +6,7 @@ date: 2014-04-24
 categories: [blogging]
 tags: [blogging]
 ---
+
 In the past, when I was talking with those people who are not developers but working with, I tended to use a lot of technical terms.
 
 I had trouble when I was working on LG Smart TV with Business group people. They didn’t understand the technical terms deeply(but seemed to know that) and I thought I explained all the situation easy enough for them but it was not. They complained and I was reprimanded for using difficult words.
