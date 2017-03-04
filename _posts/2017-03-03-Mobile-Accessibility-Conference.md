@@ -3,6 +3,7 @@
 layout: post
 title: Mobile Accessibility Conference
 date: 2012-06-27
+
 ---
 
 Today I attended Mobile Accessibility Conference which Dr. Raman and Charles Chen presented.
