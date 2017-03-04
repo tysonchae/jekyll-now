@@ -12,7 +12,7 @@ I don’t have much knowledge on Android but the accessibility is one of my conc
 There was a question on offering accessibility services no for those who are physical disabilities as well as visual impairments.
 Tecla Project offers a button that controls all the functions. Therefore we can use all the features by pressing only a button.
 This has been studied in UT(University of Toronto).
-(http://mobile-accessibility.idrc.ocad.ca/projects/tekla/the-shield)
+[Tecla Access](http://mobile-accessibility.idrc.ocad.ca/projects/tekla/the-shield)
 
 It was such a short time to discuss on a lot of topics attendees brought but swear that it was so good a time.
 We talked on Webview, ChromeVox, Speech recognition, and etc.
