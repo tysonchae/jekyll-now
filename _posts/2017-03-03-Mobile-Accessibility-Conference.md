@@ -4,7 +4,7 @@ title: Mobile Accessibility Conference
 date: 2012-06-27
 ---
 
-![mobilea.jpg]({{ site.baseurl }}/images/mobilea.jpg)
+![mobilea.jpg](/images/mobilea.jpg)
 
 Today I attended Mobile Accessibility Conference which Dr. Raman and Charles Chen presented.
 Actually, this was small session that DR.Raman gathered attendees’ questions on accessibility first and gratified their curiosity by giving answers.
