@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Developer 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Study, Practice, Study, Practice, Study, Pratice.......
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:tysonchae@gmail.com)
