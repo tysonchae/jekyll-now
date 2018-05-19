@@ -12,4 +12,4 @@ Study, Practice, Study, Practice, Study, Pratice.......
 
 ### Contact me
 
-[email@domain.com](mailto:tysonchae@gmail.com)
+[tysonchae@gmail.com](mailto:tysonchae@gmail.com)
